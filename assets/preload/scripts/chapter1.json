@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"welcome",
+			"khalil",
+			[
+				187,
+				45,
+				48
+			]
+		],
+		[
+			"universe",
+			"khalil",
+			[
+				187,
+				45,
+				48
+			]
+		],
+		[
+			"last-battle",
+			"khalil-angry",
+			[
+				187,
+				45,
+				48
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "b",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"khalil",
+		""
+	],
+	"storyName": "epic week",
+	"weekName": "khalil",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
