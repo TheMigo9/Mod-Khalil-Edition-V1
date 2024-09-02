@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "khalil:enough!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "khalil:i am tired!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "khalil:now i will show you my powerrr!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bf:pa deeboo hhmm shaabadaaba booba liikee a miibo mibo lababaaaaaaaa?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "khalil:SHUT YOUR HELL MOUTH NOW I WILL WIN AND YOU WILL DIE WITTH YYOUR STUPID GIRL!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "kkalii:LETS END THIS SHIIII******!!!"
+		}
+	]
+}
